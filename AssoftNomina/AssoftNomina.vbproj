@@ -453,6 +453,9 @@
       <SubType>Designer</SubType>
       <DependentUpon>IUConceptos.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="IUConsultarHorarios_Personal.resx">
+      <DependentUpon>IUConsultarHorarios_Personal.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="IUCrearHorario.resx">
       <DependentUpon>IUCrearHorario.vb</DependentUpon>
     </EmbeddedResource>
